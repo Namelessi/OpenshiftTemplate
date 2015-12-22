@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "Just and template for openshift node/mongo apps",
+  "scripts": {
+    "test": "server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Namelessi/OpenshiftTemplate.git"
+  },
+  "author": "Tomi Haaksila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Namelessi/OpenshiftTemplate/issues"
+  },
+  "homepage": "https://github.com/Namelessi/OpenshiftTemplate#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
